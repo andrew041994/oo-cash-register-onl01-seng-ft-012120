@@ -58,5 +58,5 @@ class CashRegister
   end
 
 
->>>>>>> 12570d254535aa7461f8d1a413853b5aae41873c
+# >>>>>>> 12570d254535aa7461f8d1a413853b5aae41873c
 end
